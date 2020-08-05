@@ -7,7 +7,7 @@ Unreal Scripts that can be used to make a 3rd person RPG. The scripts can be fou
 Customized blueprints of my game is here.
 
  # Check out the video first!
-[<img src="https://img.youtube.com/vi/bK-bMIJdFS0/maxresdefault.jpg" width="80%" height="80%">](https://youtu.be/bK-bMIJdFS0)
+https://youtu.be/bKbMIJdFS0
 
 
 Note: It's not complete and don't know when it will be.
