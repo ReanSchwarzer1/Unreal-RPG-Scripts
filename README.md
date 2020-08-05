@@ -5,7 +5,7 @@
 
 Note 1: It's not complete and I don't know when it will be.
 
-Unreal Scripts that can be used to make a 3rd person RPG. The scripts can be found inside the Source folder.
+Unreal Scripts that can be used for making a 3rd person RPG. The scripts can be found inside the Source folder.
 Customized blueprints of my game are here.
 
  # Check out the video first!
